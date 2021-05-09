@@ -1,0 +1,15 @@
+.todo{
+    background-color: #FFFFFF;
+    width: 350px;
+    height: 500px;
+    margin-top: 100px;
+    border-radius: 18px;
+    box-shadow: 3px 3px 6px 8px rgba(128, 127, 127, 0.383);
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.input{
+    /* background-color: rebeccapurple; */
+    margin-top: 10px;
+}
